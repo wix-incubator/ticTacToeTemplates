@@ -1,0 +1,1 @@
+python ticTacToe.py $1

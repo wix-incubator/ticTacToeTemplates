@@ -1,0 +1,1 @@
+ruby ticTacToe.rb $1
